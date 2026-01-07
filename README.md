@@ -1,3 +1,3 @@
-# bookbot
+# A text file analyzer
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+A guided project I made from [boot.dev](boot.dev)! This was really fun making lol.
